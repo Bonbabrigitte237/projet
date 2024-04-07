@@ -1,0 +1,38 @@
+header{
+background-color:#333;
+color:#fff;
+padding: 20px;
+text-align: center;
+}
+h1{
+color: #0077b6;
+text-align:center;
+}
+.profile-picture{
+display: block;
+margin:20px auto;
+width:150px;
+height:150px;
+border-radius:50%;
+box-shadow:0 0 10px rgba(0,0,0,0.5);
+}
+
+section{
+margin:40px;
+background-colour:rgba(255,255,255,0.8);
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.3);
+}
+
+h2{
+text-align:left;
+color:#0077b6;
+}
+
+ul{
+list-style-type:none;
+padding:0;
+}
+li{
+margin-bottom:10px;
+}
